@@ -49,7 +49,7 @@ While the path to this point demanded hard work and resilience, the reward of
 doing what I love every day and contributing to life-changing science is 
 deeply fulfilling!
 
-## Activities
+<!-- ## Activities
 
 Outside of work I have several hobbies. Some of those hobbies include 
 experimenting with single board computers (e.g. raspberry pi) and woodworking.
@@ -114,4 +114,4 @@ black walnut inlay.
 </p>
 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
